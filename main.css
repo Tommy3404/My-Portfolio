@@ -1,0 +1,55 @@
+body{
+    background-color: green;
+}
+
+.name{
+    background-color: aqua;
+    border-radius: 10px;
+    
+}
+
+.AboutMe {
+background-color: red;
+border-radius: 10px;
+display: flex;
+flex-direction: row;
+width: 100vw;
+}
+
+.Hobbies{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+
+.ProjectsIveWorkedOn{
+background-color: yellow;
+border-radius: 10px;
+}
+
+.Contact{
+    background-color: orange;
+    border-radius: 10px;
+}
+
+h2{
+    font-style: italic;
+    flex: none;
+}
+
+section{
+    padding: 10px;
+    margin: 10px;
+}
+
+#Wrestle{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    padding-right: 50px;
+    
+}
+
+p{
+    padding: 20px;
+}
